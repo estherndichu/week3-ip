@@ -1,1 +1,33 @@
-
+#first{
+    background-image: url(../images/h_img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 250px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
+#services{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../images/s_image.jpg);
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+}
+.icons{
+    text-align: center;
+}
+.feedback{
+    background-image: url(../images/c_image.jpg);
+    background-size: cover;
+}
+.footer{
+    text-align: center;
+    text-transform: uppercase;
+}
+.hide{
+    display: none;
+}
