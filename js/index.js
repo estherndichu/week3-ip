@@ -24,3 +24,58 @@ $(document).ready(function(){
         $("#product-hide").toggle();
     });
     });
+    $(document).ready(function() {
+        $('.one').mouseover(function(){
+          $('#dark').show();
+        }).mouseout(function(){
+          $('#dark').hide();
+        });
+        $('.two')
+          .mouseover(function () {
+            $('#mighty').show();
+          })
+          .mouseout(function () {
+            $('#mighty').hide();
+          });
+        $('.three')
+          .mouseover(function () {
+            $('#yellow').show();
+          })
+          .mouseout(function () {
+            $('#yellow').hide();
+          });
+        $('.four')
+          .mouseover(function () {
+            $('#jim').show();
+          })
+          .mouseout(function () {
+            $('#jim').hide();
+          });
+        $('.five').mouseover(function () {
+            $('#good').show();
+          })
+          .mouseout(function () {
+            $('#good').hide();
+          });
+        $('.six')
+          .mouseover(function () {
+            $('#sheet').show();
+          })
+          .mouseout(function () {
+            $('#sheet').hide();
+          });
+        $('.seven')
+          .mouseover(function () {
+            $('#burned').show();
+          })
+          .mouseout(function () {
+            $('#burned').hide();
+          });
+        $('.eight')
+          .mouseover(function () {
+            $('#giraffe').show();
+          })
+          .mouseout(function () {
+            $('#giraffe').hide();
+          });
+        });
