@@ -28,6 +28,6 @@
     text-align: center;
     text-transform: uppercase;
 }
-.hide{
+.design-hide,.dev-hide,.product-hide{
     display: none;
 }
