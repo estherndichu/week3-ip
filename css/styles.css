@@ -2,9 +2,13 @@
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 300px;
+    background-position: center;
     padding-bottom: 50px;
     text-align: center;
+}
+.welcome{
+    padding-top: 250px;
+    position: relative;
 }
 #about{
     text-align: center;
@@ -26,7 +30,9 @@
     background-image: url(../images/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
+
 input.form-control,textarea#message{
     background: transparent;
     font-size: 20px;
@@ -58,4 +64,9 @@ input.form-control,textarea#message{
     font-size: 50px;
     font-weight: bold;
     border: 5px solid white;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .container,.container-fluid{
+        display: inline-table;
+    }
 }
