@@ -20,6 +20,7 @@
 }
 .icons{
     text-align: center;
+    align-items: center;
 }
 .feedback{
     background-image: url(../images/c_image.jpg);
@@ -38,7 +39,7 @@
     color: white;
     width: 90%;
     height: 90%;
-    background-color:rgba(63, 55, 55, 0.456);
+    background-color:hsla(300, 8%, 66%, 0.384);
     position:absolute;
     top: 50%;
     left: 50%;
