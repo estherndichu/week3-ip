@@ -2,7 +2,7 @@
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 250px;
+    padding-top: 300px;
     padding-bottom: 50px;
     text-align: center;
 }
@@ -26,6 +26,14 @@
     background-image: url(../images/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+input.form-control,textarea#message{
+    background: transparent;
+    font-size: 20px;
+    border: 2px solid white;
+}
+::placeholder{
+    color: white !important;
 }
 .footer{
     text-align: center;
