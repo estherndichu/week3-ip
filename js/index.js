@@ -79,3 +79,17 @@ $(document).ready(function(){
             $('#giraffe').hide();
           });
         });
+        $(document).ready(function(){
+          $("form#message").submit(function(event){
+            var name = $("input#name").val();
+            var email = $("input#address").val();
+            var message = $("textarea#message").val();
+            event.preventDefault();
+            if ($("input#name").val() && $("input#address").val()){
+             alert (name + ", we have received your message. Thank you for contacting us.");
+           }
+           else{
+             alert("Please enter your name,email and your message.Thank you.");
+           }
+          });
+         });
