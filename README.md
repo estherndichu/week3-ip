@@ -12,6 +12,9 @@ This portfolio helps to show our clients the work we do and the steps we take to
 * Go back to terminal and run this command : git clone (link that you copied in step above)
 * Create your own github branch and edit the code as you wish.
 ## BDD
+* User can toggle between the icons and their descriptions.
+* User is able to see image title by hovering the cursor on the image.
+* User is able to interact with us via email and give their feedback.
 * Click on this link to view the portfolio ; https://estherndichu.github.io/week3-ip/
 ## Known Bugs
 None
