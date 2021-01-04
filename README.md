@@ -1,4 +1,5 @@
 # DELANI STUDIO
+![Delani Studio](./images/delani.png)
 #### This is a portfolio for a web design studio called Delani.
 #### By https://github.com/estherndichu
 ## Description
