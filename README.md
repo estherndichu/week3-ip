@@ -1,7 +1,7 @@
 # DELANI STUDIO
 ![Delani Studio](./images/delani.png)
 #### This is a portfolio for a web design studio called Delani.
-#### By https://github.com/estherndichu
+#### By [Esther Ndichu](https://github.com/estherndichu)
 ## Description
 This portfolio helps to show our clients the work we do and the steps we take to make their dreams into reality.
 ## Setup/Installation Requirements
